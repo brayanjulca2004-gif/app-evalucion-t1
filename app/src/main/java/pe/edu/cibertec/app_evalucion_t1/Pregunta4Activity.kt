@@ -8,7 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import pe.edu.cibertec.app_evalucion_t1.databinding.ActivityAppPregunta4Binding
 
-class app_pregunta_4Activity : AppCompatActivity(), View.OnClickListener {
+class Pregunta4Activity : AppCompatActivity(), View.OnClickListener {
 
     private lateinit var binding: ActivityAppPregunta4Binding
 

@@ -22,11 +22,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".app_pregunta_4Activity"
+            android:name=".Pregunta4Activity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".pregunta4Activity"
+            android:name=".Pregunta2Activity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta3Activity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta7Activity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta1Activity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
     </application>

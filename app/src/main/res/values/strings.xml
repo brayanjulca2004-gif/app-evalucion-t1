@@ -8,4 +8,10 @@
     <string name="resul">RESULTADO</string>
     <string name="limpia">LIMPIAR</string>
     <string name="preg4">PREGUNTA 4\n</string>
+    <string name="pre">PREGUNTA 1</string>
+    <string name="preg">PREGUNTA 2\n</string>
+    <string name="pregt">PREGUNTA 3</string>
+    <string name="pre5">PREGUNTA 5</string>
+    <string name="pre6">PREGUNTA 6</string>
+    <string name="pre7">PREGUNTA 7\n</string>
 </resources>
