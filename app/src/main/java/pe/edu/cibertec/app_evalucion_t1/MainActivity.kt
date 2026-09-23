@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
         binding.btnpregunta2.setOnClickListener(this)
         binding.btnpregunta3.setOnClickListener(this)
         binding.btnpregunta4.setOnClickListener(this)
+        binding.btnpregunta5.setOnClickListener(this)
         binding.btnpregunta7.setOnClickListener(this)
 
 
@@ -40,6 +41,7 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
             R.id.btnpregunta2 -> pregunta2()
             R.id.btnpregunta3 -> pregunta3()
             R.id.btnpregunta4 -> pregunta4()
+            R.id.btnpregunta6 -> pregunta5()
             R.id.btnpregunta7 -> pregunta7()
         }
     }
@@ -56,6 +58,10 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
             Pregunta3Activity::class.java))
     }
     fun pregunta4(){
+        startActivity(Intent(this,
+            Pregunta4Activity::class.java))
+    }
+    fun pregunta5(){
         startActivity(Intent(this,
             Pregunta4Activity::class.java))
     }
