@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">app-evalucion-t1</string>
+    <string name="titulo">PLAN DE DATOS MOVILES</string>
+    <string name="sudtitulo">Paquete contratado: 30 GB</string>
+    <string name="subt">GB consumidos</string>
+    <string name="datos">Ingrese cantidad</string>
+    <string name="botoncalcualar">CALCULAR</string>
+    <string name="resul">RESULTADO</string>
+    <string name="limpia">LIMPIAR</string>
+    <string name="preg4">PREGUNTA 4\n</string>
 </resources>
